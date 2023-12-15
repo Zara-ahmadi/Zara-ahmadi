@@ -10,10 +10,10 @@
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=Zara-ahmadi&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="center" class='small'>
+<p align="center" class='small'>
    Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</p>
 <!--
 **Zara-ahmadi/Zara-ahmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
